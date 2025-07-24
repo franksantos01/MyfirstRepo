@@ -1,0 +1,13 @@
+# What i have learned so far
+
+Forking and contributing to repositories.
+Managing your own GitHub repository with branches and pull requests.
+Cloning repositories to work locally, and syncing changes back to GitHub.
+
+ git add learning.txt
+
+ git commit -m "Added learning.txt with course reflection"
+
+
+ git push origin main
+
